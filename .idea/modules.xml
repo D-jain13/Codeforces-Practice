@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Competitive Programming Practice.iml" filepath="$PROJECT_DIR$/Competitive Programming Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rating 1000/Rating 1000.iml" filepath="$PROJECT_DIR$/Rating 1000/Rating 1000.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rating 800/Rating 800.iml" filepath="$PROJECT_DIR$/Rating 800/Rating 800.iml" />
     </modules>
   </component>
